@@ -21,7 +21,7 @@
 title: Mikhail's blog
 # email: koypish-dev@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Some thoughts on software development and data science
+  Some notes on software development and data science
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
